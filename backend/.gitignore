@@ -1,0 +1,9 @@
+/images
+/.env
+/node_modules_
+/.sample
+<<<<<<< HEAD
+/node_modules
+=======
+/node_modules
+>>>>>>> 304a428b989c7ede358203009afe24650709b12a
